@@ -82,13 +82,11 @@ public class Main {
         ******************************************************
         
         MENU:
-        
-        
+       
             1 : Gestions élèves
             2 : Gestions Professeur
             3 : Gestions Utilisateur
             0 : Quitter
-
 
         Date du Système : %s
 
